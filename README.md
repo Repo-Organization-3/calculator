@@ -74,7 +74,3 @@ Please refer to [SECURITY.md](./SECURITY.md).
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the [MIT License](./LICENSE).
-
-## Testing
-
-## Testing
